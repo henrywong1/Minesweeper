@@ -1,0 +1,9 @@
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\bin\Debug\Project 5  Minesweeper.exe
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\bin\Debug\Project 5  Minesweeper.pdb
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project 5  Minesweeper.csprojResolveAssemblyReference.cache
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project_5__Minesweeper.Form1.resources
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project_5__Minesweeper.Properties.Resources.resources
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project 5  Minesweeper.csproj.GenerateResource.Cache
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project 5  Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project 5  Minesweeper.exe
+C:\Users\henry\source\repos\Project 5  Minesweeper\Project 5  Minesweeper\obj\Debug\Project 5  Minesweeper.pdb
