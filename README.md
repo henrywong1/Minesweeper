@@ -9,4 +9,6 @@ Game created using:
  - GUI
 
 
- 
+ ## Here is a demo:
+
+![](demo.gif)
